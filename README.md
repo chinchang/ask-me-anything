@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-Open an issue to ask me anything. I have descent experience in following things:
+Open an issue to ask me anything. I have decent experience in following things:
 
 - HTML
 - CSS
@@ -13,6 +13,8 @@ Open an issue to ask me anything. I have descent experience in following things:
 - Firebase (Firestore, Cloud functions)
 - Indie product marketing
 - Quick prototyping
+- Working in teams
+- Developing UI from design to testing (principles, processes, tech)
 - Making lots of Side projects (parallel side projects, getting ideas, motivation etc)
 - Making games
 - Playing piano
