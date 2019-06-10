@@ -11,6 +11,7 @@ Open an issue to ask me anything. I have decent experience in following things:
 - Design Systems
 - Component Architecture
 - Firebase (Firestore, Cloud functions)
+- Indie product development
 - Indie product marketing
 - Quick prototyping
 - Working in teams
